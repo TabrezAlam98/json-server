@@ -29,5 +29,42 @@
       "Description": "Tata Altroz with all original documents",
       "Price": 500000
     }
+  ],
+  "signup": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "email": "a@gmail.coom",
+      "name": "tabrex",
+      "password": "123",
+      "con_password": "123",
+      "id": 2
+    },
+    {
+      "email": "",
+      "name": "sss@gmail.com",
+      "password": "111111",
+      "con_password": "",
+      "id": 3
+    },
+    {
+      "name": "tabrez",
+      "password": "123456",
+      "id": 6
+    }
+  ],
+  "task": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "task": "mock-5",
+      "id": 2
+    }
   ]
 }
